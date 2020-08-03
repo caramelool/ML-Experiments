@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ML Experiments</string>
+    <string name="section_camera_x">CameraX</string>
+</resources>
